@@ -1,6 +1,6 @@
-from tkinder import * 
+from tkinter import * 
 class Application:
-    def__init__(self, master = None):
+ def  __init__(self, master = None):
     pass
 root = Tk()
 Application(root)
